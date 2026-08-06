@@ -10,8 +10,8 @@ def checar_fechamento(conjunto, tabela):
     """ 
     Loop que percorre cada elemento operado da tabela e verifica se ele está no conjunto original
     """
-    for i in range(tabela.length()):
-        for j in range(tabela[i].length()):
+    for i in range(len(tabela)):
+        for j in range(len(tabela[i])):
             if tabela[i][j] not in conjunto:
                 elementos_falhos.append((tabela[i], tabela[j]))
 
@@ -35,7 +35,7 @@ def checar_elemento_neutro(conjunto, tabela):
     elemento neutro através do índice encontrado no loop, caso não encontre nenhuma linha correspondene ao conjunto
     original, retorna False.
     """
-    for i in range(tabela.length()):
+    for i in range(len(tabela)):
         if tabela[i] == conjunto:
             return conjunto[i]
 
@@ -59,7 +59,7 @@ def checar_inversos(conjunto, tabela, elemento_neutro):
     Caso o elemento neutro não seja encontrado, significa que o elemento daquela linha não possui inverso, sendo adicionado na 
     lista de elementos que falham no axíoma.
     """
-    for i in range(tabela.length()):
+    for i in range(len(tabela)):
         if elemento_neutro not in tabela[i]:
             falhos.append(conjunto[i])
 
