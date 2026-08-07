@@ -6,7 +6,7 @@ Prompts utilizados (IA: ChatGPT) — Ordem dos elementos. (Aceu Catão Filho)
 * "Veja se funciona para grupos não abelianos"
 * "Sugira casos de teste para validar uma função que calcula a ordem dos elementos de um grupo."
 
-Prompts utilizados (IA: Claude, ChatGPT) - Grupos Cíclicos e elementos geradores.
+Prompts utilizados (IA: Claude, ChatGPT) - Grupos Cíclicos e elementos geradores. (André Araújo Sarmento Costa)
 
 1- Pedi ajuda sobre a definição de grupos cíclicos e como funciona a dinâmica dos elementos geradores.
 2- Pedi ajuda sobre a verificação dos elementos, como verificaria se um elemento é gerador.
