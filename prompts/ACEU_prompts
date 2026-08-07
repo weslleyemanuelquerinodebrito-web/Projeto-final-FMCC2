@@ -1,7 +1,0 @@
-Prompts utilizados (IA: ChatGPT) — Ordem dos elementos.
-
-* "Explique o conceito matemático de ordem de um elemento em teoria dos grupos e como ele pode ser implementado em Python."
-* "Revise meu algoritmo que calcula a ordem de cada elemento de um grupo e identifique possíveis erros de lógica."
-* "Meu algoritmo utiliza list.index() repetidamente. Há uma forma mais eficiente de acessar os índices dos elementos?"
-* "Veja se funciona para grupos não abelianos"
-* "Sugira casos de teste para validar uma função que calcula a ordem dos elementos de um grupo."
