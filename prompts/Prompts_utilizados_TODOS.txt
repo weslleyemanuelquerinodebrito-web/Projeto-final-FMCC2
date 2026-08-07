@@ -1,0 +1,39 @@
+Prompts utilizados (IA: ChatGPT) — Ordem dos elementos. (Aceu Catão Filho)
+
+* "Explique o conceito matemático de ordem de um elemento em teoria dos grupos e como ele pode ser implementado em Python."
+* "Revise meu algoritmo que calcula a ordem de cada elemento de um grupo e identifique possíveis erros de lógica."
+* "Meu algoritmo utiliza list.index() repetidamente. Há uma forma mais eficiente de acessar os índices dos elementos?"
+* "Veja se funciona para grupos não abelianos"
+* "Sugira casos de teste para validar uma função que calcula a ordem dos elementos de um grupo."
+
+Prompts utilizados (IA: Claude, ChatGPT) - Grupos Cíclicos e elementos geradores. (André Costa)
+
+1- Pedi ajuda sobre a definição de grupos cíclicos e como funciona a dinâmica dos elementos geradores.
+2- Pedi ajuda sobre a verificação dos elementos, como verificaria se um elemento é gerador.
+3- Pedi para me ajudar a tratar matrizes na minha função inicial que tratava apenas grupos.
+4- Revisei meu código, solicitei que ele verificasse se possuía algum bug ou erro de lógica.
+5- Pedi ajuda para Formular os comentários das funções.
+
+Uso: No tratamento de matrizes, não foi copiado nenhuma parte de código gerado, apenas conceitos e exemplos que me permitiram adequar para a minha função, a real mudança foi bem discreta
+(4 linhas de código), no tratamento de bugs não houve mudanças pois a lógica estava correta de acordo com os conceitos de grupo cíclico, e nos comentários foi feita uma adaptação dos que já tinha feito.
+
+Prompts utilizados (IA: Claude) — Associatividade e Comutatividade. (Hector Belchior)
+
+1.  Pedi ajuda pra planejar como implementar essa parte em Python.
+2.  Pedi um exemplo inicial de código pra essas verificações, que usei como base.
+3.  Fui enviando o código que eu mesmo escrevi/ajustei pra revisão, pedindo pra achar bugs.
+4.  Pedi pra estruturar o retorno das funções em formato de dicionário, pra facilitar juntar com a parte dos outros integrantes.
+5.  Enviei a especificação da parte (retornar verdadeiro/falso + primeira violação) e pedi ajuste do código pra bater com isso.
+6.  Pedi ajuda pra deixar os comentários/textos do código com uma cara mais minha, menos formal.
+
+Uso: apoio em planejamento, revisão de código e correção de bugs. O código foi escrito e ajustado por mim ao longo do processo, com a IA usada para revisar, sugerir correções e ajudar a estruturar o formato de retorno.
+
+Prompts utilizados (IA: Claude) - Fechamento, elementos neutros e inversos. (Pedro Henrique Nóbrega)
+
+1. Pedi ajuda sobre opções de representação da tabela de operações em python.
+2. Pedi um exemplo de código para o axioma do fechamento, no qual estudei, e fiz minha própria versão usando uma lógica semelhante.
+3. Pedi uma revisão da minha versão do código da função do fechamento, para procurar possíveis erros (corrigi um pequeno erro no loop for, que não rodava, pois escrevi com a sintaxe errada, depois corrigi).
+4. Expliquei a lógica que pensei para implementar as outras duas funções, procurando ver se minha lógica estava correta ou se haviam erros.
+5. Depois de implementar as duas funções, enviei para o chat, procurando erros no código que pudessem quebrar (Nessas duas funções, não foi encontrado nenhum erro na lógica ou na implementação do meu código.
+
+Uso: Apoio em formas de representar a tabela de operações, assim como ideias de algoritmos para o axioma do fechamento, além disso, usei principalmente para revisar meus códigos e caçar possíveis bugs.
